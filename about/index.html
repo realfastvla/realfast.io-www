@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>realfast</title>
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css"/>
+	<link rel="stylesheet" href="../custom-style.css"/>
+	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<div class="container">
+		<header>
+		  <nav class="h3 pa2 bg-white code ttu">
+		  	<a class="link fl w2 ma3 dim" href="/" title="Home"><img src="../realfast_logo.png"></a>
+		    <a class="link dark-gray dim fl mh3 mv3-5" href="/about" title="About">About</a>
+		    <a class="link dark-gray dim fl mh3 mv3-5" href="/software" title="Software">Software</a>
+		    <a class="link dark-gray dim fl mh3 mv3-5" href="/services" title="Services">Services</a>
+		    <a class="link dark-gray dim fl mh3 mv3-5" href="/data" title="Data">Data</a>
+		  </nav>
+		</header>
+
+		<div id="body">
+			<h2><em>realfast</em>: real-time fast transients at the Very Large Array</h2>
+<h2>Context</h2>
+<p>The VLA is most sensitive cm-wavelength radio interferometer on the earth and can revolutionize the study of fast radio transients with its ability to localize sources with arcsecond spatial resolution. <em>realfast</em> will use this capability to hunt for a mysterious new class of radio transients known as <a href="https://en.wikipedia.org/wiki/Fast_radio_burst">fast radio bursts</a>, pulsars, and other rare astrophysical transients.</p>
+<p>To do this, <em>realfast</em> must generate roughly 1 TB of data per hour search it in real time. This data rate is so large that it cannot be transferred via the internet for data analysis. The computing requirements are so severe that no single computer can manage the search. The question is: how can we search a TB/hour data stream for the hundreds of hours needed to find these rare transients?</p>
+<p><img style="border:5px solid black" width="70%" src='vla_fastimaging.png'></p>
+<p>Our answer is <em>realfast</em>, a system for real-time fast transient searches at the VLA via interferometric imaging. The approach was first demonstrated with the <a href="http://labs.adsabs.harvard.edu/adsabs/abs/2012ApJ...760..124L">first blind interferometric localization of a transient neutron star</a> (see image above). <em>realfast</em> will scale that concept to real-time and open access to "commensal" observing in conjunction with other VLA observations.</p>
+<h2>Approach</h2>
+<p><em>realfast</em> development began in late 2016 via the NSF ATI program and is based on a few key technologies:</p>
+<ol>
+<li><strong>Computing hardware at the VLA</strong>: Real-time fast transient detection requires a dedicated computing platform to search for transients.</li>
+<li><strong>Commensal data stream</strong>: A high-speed copy of every VLA observation can be searched for transients.</li>
+<li><strong>Transient search pipeline</strong>: A transient <a href="http://github.com/realfastvla/rfpipe">search pipeline</a> will be implemented for GPUs.</li>
+<li><strong>Candidate data management system</strong>: Data products and transient alerts will be rapidly distributed to the public.</li>
+</ol>
+<p>More information can be found on our <a href="../software">software</a> and <a href="../services">services</a> pages.</p>
+<h2>Team</h2>
+<ul>
+<li><strong>Geoff Bower</strong> (ASIAA)</li>
+<li><strong>Sarah Burke-Spolaor</strong> (WVU)</li>
+<li><strong>Bryan Butler</strong> (NRAO; NRAO lead)</li>
+<li><strong>Paul Demorest</strong> (NRAO)</li>
+<li><strong>Shakeh Khudikyan</strong> (JPL)</li>
+<li><strong>Casey Law</strong> (UC Berkeley; Principal Investigator; claw@astro.berkeley.edu)</li>
+<li><strong>Joe Lazio</strong> (JPL)</li>
+<li><strong>Martin Pokorny</strong> (NRAO)</li>
+<li><strong>James Robnett</strong> (NRAO)</li>
+<li><strong>Michael Rupen</strong> (DRAO)</li>
+</ul>
+<p><img style="border:5px solid black" width="400" src='group_vla.jpg'></p>
+<h2>Results and Publications</h2>
+<p><em>realfast</em> publications:</p>
+<ol>
+<li><a href="https://ui.adsabs.harvard.edu/#abs/2015ApJ...807...16L">Law et al. (2015)</a> describes a prototype <em>realfast</em> system that searched 200 hours and 200 TB of data for FRBs.</li>
+<li><a href="http://dx.doi.org/10.1038/nature20797">Chatterjee et al. (2017)</a> describes how a <em>realfast</em> prototype made the first interferometric localization and host identification of an FRB (see image below).</li>
+<li><a href="https://ui.adsabs.harvard.edu/#abs/2017arXiv170507553L">Law et al. (2017)</a> present a detailed analysis of radio bursts from FRB 121102.</li>
+</ol>
+<p><img style="border:5px solid black" width="70%" src='cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png'></p>
+<p><em>realfast</em> strives for openness in every aspect. Software is <a href="http://github.com/realfastvla/rfpipe">open and easy to install</a>, data <a href="../data">has and will be made available</a> and will be made available in the future, and the <a href="https://github.com/caseyjlaw/FRB121102">analysis behind our publications</a> is open.</p>
+		</div>
+
+		<div class="footer code dark-gray pa2">
+			<p class="ma0">realfast funded by NSF, web design by Andrew Halle, logo design by Studio Principle <a href="/thanks">More</a></p>
+		</div>
+	</div>
+</body>
+</html>

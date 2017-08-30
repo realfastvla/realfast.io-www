@@ -1,0 +1,101 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#news {
+	width: 700px;
+	height: 300px;
+	position: relative;
+	top: 50px;
+	overflow: hidden;
+	margin: auto;
+}
+
+.news-card {
+	margin: 0px;
+	padding: 0px;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+}
+
+.news-card h1 {
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+}
+
+.news-card p {
+	margin: 20px;
+	font-size: 14px;
+}
+
+#prev {
+	right: 600px;
+}
+
+#curr {
+        left: 100px;
+}
+
+#next {
+	left: 600px;
+}
+
+.news-page-button {
+	margin: 0px;
+	padding: 0px;
+	width: 75px;
+	height: 300px;
+	position: absolute;
+	z-index: 4;
+	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+}
+
+.news-page-button:hover {
+	cursor: pointer;
+}
+
+#go-forward {
+	right: 0;
+	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+	
+}
+
+#go-forward img {
+	width: 100%;
+	position: absolute;
+	top: 40%;
+	display: none;
+}
+
+#go-forward:hover {
+        background: rgba(220, 220, 220, 0.7);
+}
+
+#go-forward:hover img {
+	display: block;
+}
+
+#go-back {
+        background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+	left: 0px;
+}
+
+#go-back img {
+	width: 100%;
+	position: absolute;
+	top: 40%;
+	display: none;
+}
+
+#go-back:hover {
+        background: rgba(220, 220, 220, 0.7);
+}
+
+#go-back:hover img {
+	display: block;
+}

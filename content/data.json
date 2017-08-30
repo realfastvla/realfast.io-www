@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"name": "VLA visibilities for FRB 121102 bursts",
+			"link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TLDKXG",
+			"image": "dataverse.png",
+		        "optional_text": "Go to Dataverse"
+		},
+		{
+			"name": "VLA visibilities for blind FRB search",
+			"link": "https://s3.console.aws.amazon.com/s3/buckets/ska-vla-frb-pds",
+			"image": "aws.png",
+		        "optional_text": "Log in to AWS"
+		}
+	]
+}

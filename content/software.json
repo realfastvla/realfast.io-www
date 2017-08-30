@@ -1,0 +1,16 @@
+{
+	"software": [
+		{
+			"name": "All realfastvla software",
+			"link": "https://github.com/realfastvla",
+			"image": "github.png",
+		        "optional_text": "Go to Github"
+		},
+		{
+			"name": "FRB 121102 Notebooks",
+			"link": "https://github.com/caseyjlaw/FRB121102",
+			"image": "github.png",
+		        "optional_text": "Go to Github"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"services": [
+		{
+			"name": "realfast internal portal (in development)",
+			"link": "https://hub.realfast.io",
+			"image": "jupyter.png",
+		        "optional_text": "Launch"
+		},
+		{
+			"name": "RTCat: quick searching of fast transient catalogs",
+			"link": "http://rtcat.realfast.io",
+			"image": "oski.jpg",
+		        "optional_text": "Launch"
+		}
+	]
+}

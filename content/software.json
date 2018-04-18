@@ -1,6 +1,12 @@
 {
 	"software": [
 		{
+			"name": "rfpipe",
+			"link": "https://realfastvla.github.io/rfpipe/",
+			"image": "github.png",
+		        "optional_text": "Go to documentation"
+		},
+		{
 			"name": "All realfastvla software",
 			"link": "https://github.com/realfastvla",
 			"image": "github.png",

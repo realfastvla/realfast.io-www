@@ -1,9 +1,9 @@
 {
 	"services": [
 		{
-			"name": "realfast internal portal (in development)",
-			"link": "https://hub.realfast.io",
-			"image": "jupyter.png",
+			"name": "Candidate search",
+			"link": "http://search.realfast.io",
+			"image": "oski.jpg",
 		        "optional_text": "Launch"
 		},
 		{

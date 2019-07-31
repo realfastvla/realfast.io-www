@@ -99,14 +99,14 @@ for image in images:
 #copy news items
 news_files = os.listdir("news_files")
 for news_file in news_files:
-	if news_file[-1] == "~":
+	if "~" in news_file:
 		os.remove("news_files/" + news_file)
-news_files = os.listdir("/data/news/news_files")
+news_files = os.listdir("/users/claw/code/realfast_services/news/news_files")
 for news_file in news_files:
-	os.remove("/data/news/news_files/" + news_file)
+	os.remove("/users/claw/code/realfast_services/news/news_files/" + news_file)
 news_files = os.listdir("news_files")
 for news_file in news_files:
-	shutil.copyfile("news_files/" + news_file, "/data/news/news_files/" + news_file)
+	shutil.copyfile("news_files/" + news_file, "/users/claw/code/realfast_services/news/news_files/" + news_file)
 
 #clean up directory
 os.remove("about.html")

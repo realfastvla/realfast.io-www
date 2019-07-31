@@ -26,13 +26,14 @@ More information can be found on our [software](../software) and [services](../s
 Team
 ----
 
+* **Kshitij Aggarwal** (WVU)
 * **Geoff Bower** (ASIAA)
 * **Sarah Burke-Spolaor** (WVU)
 * **Bryan Butler** (NRAO; NRAO lead)
 * **Paul Demorest** (NRAO)
-* **Shakeh Khudikyan** (JPL)
 * **Casey Law** (UC Berkeley; Principal Investigator; claw@astro.berkeley.edu)
 * **Joe Lazio** (JPL)
+* **Justin Linford** (WVU)
 * **Martin Pokorny** (NRAO)
 * **James Robnett** (NRAO)
 * **Michael Rupen** (DRAO)

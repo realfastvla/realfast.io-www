@@ -31,7 +31,7 @@ Team
 * **Sarah Burke-Spolaor** (WVU)
 * **Bryan Butler** (NRAO; NRAO lead)
 * **Paul Demorest** (NRAO)
-* **Casey Law** (UC Berkeley; Principal Investigator; claw@astro.berkeley.edu)
+* **Casey Law** (Caltech; Principal Investigator; claw@astro.caltech.edu)
 * **Joe Lazio** (JPL)
 * **Justin Linford** (WVU)
 * **Martin Pokorny** (NRAO)

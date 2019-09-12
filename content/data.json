@@ -7,10 +7,10 @@
 		        "optional_text": "Go to Dataverse"
 		},
 		{
-			"name": "VLA visibilities for blind FRB search",
-			"link": "https://s3.console.aws.amazon.com/s3/buckets/ska-vla-frb-pds",
-			"image": "aws.png",
-		        "optional_text": "Log in to AWS"
+			"name": "VLA visibilities for blind FRB searches",
+			"link": "http://archive-new.nrao.edu",
+			"image": "nrao.jpg",
+		        "optional_text": "Go to NRAO archive"
 		}
 	]
 }

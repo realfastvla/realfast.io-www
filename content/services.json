@@ -3,13 +3,25 @@
 		{
 			"name": "Candidate search",
 			"link": "http://search.realfast.io",
-			"image": "oski.jpg",
+			"image": "caltech.png",
 		        "optional_text": "Launch"
 		},
 		{
 			"name": "RTCat: quick searching of fast transient catalogs",
 			"link": "http://rtcat.realfast.io",
-			"image": "oski.jpg",
+			"image": "caltech.png",
+		        "optional_text": "Launch"
+		},
+		{
+			"name": "Dashboard (internal)",
+			"link": "http://dashboard.realfast.io",
+			"image": "caltech.png",
+		        "optional_text": "Launch"
+		},
+		{
+			"name": "Job scheduler (internal)",
+			"link": "http://cluster.realfast.io",
+			"image": "caltech.png",
 		        "optional_text": "Launch"
 		}
 	]

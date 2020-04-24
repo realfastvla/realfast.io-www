@@ -1,7 +1,7 @@
 
 <img align="middle" height="200" src="nsf2.gif">
 <img align="middle" height="200" src="nraologo.png">
-<img align="middle" height="200" src="UC_Berkeley_Seal_80px.png">
+<img align="middle" height="200" src="caltech.png">
 
 *realfast* is made possible by:
 
@@ -13,4 +13,4 @@
 
 - Logo by [Studio Principle](https://www.studioprinciple.com)
 
-For questions or comments, please contact PI Casey Law at claw@astro.berkeley.edu.
+For questions or comments, please contact PI Casey Law at claw@astro.caltech.edu.

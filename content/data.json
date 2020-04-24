@@ -13,10 +13,10 @@
 		        "optional_text": "Go to NRAO archive"
 		},
 		{
-		    "name": "realfast detection of FRB 180916.J0158+65",
-			"link": "http://realfast.io/data/realfast_R3_mjd58962.png",
+		    "name": "ATel xxxx on detection of FRB 180916.J0158+65",
+			"link": "http://realfast.io/data/realfast_R3_mjd58962.html",
 			"image": "realfast_R3_mjd58962.png",
-		        "optional_text": "Show full image"
+		        "optional_text": "View page"
 		}
 	]
 }

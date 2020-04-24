@@ -11,7 +11,7 @@ To do this, *realfast* must generate roughly 1 TB of data per hour search it in 
 
 Our answer is *realfast*, a system for real-time fast transient searches at the VLA via interferometric imaging. The approach was first demonstrated with the [first blind interferometric localization of a transient neutron star](http://labs.adsabs.harvard.edu/adsabs/abs/2012ApJ...760..124L) (see image above). The [first FRB localization](http://dx.doi.org/10.1038/nature20797) was made by realfast (see image below).
 
-<img style="border:5px solid black" width="50%" src='cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png'>
+<img style="border:5px solid black" width="70%" src='cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png'>
 
 Approach
 ----

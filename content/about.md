@@ -32,6 +32,7 @@ Team
 * **Geoff Bower** (ASIAA)
 * **Sarah Burke-Spolaor** (WVU)
 * **Bryan Butler** (NRAO; NRAO lead)
+* **Liam Connor** (Caltech)
 * **Paul Demorest** (NRAO)
 * **Casey Law** (Caltech; Principal Investigator; claw@astro.caltech.edu)
 * **Joe Lazio** (JPL)
@@ -39,6 +40,8 @@ Team
 * **Martin Pokorny** (NRAO)
 * **James Robnett** (NRAO)
 * **Michael Rupen** (DRAO)
+* **Jessica Sydnor** (WVU)
+* **Reshma Anna Thomas** (WVU)
 
 <img style="border:5px solid black" width="400" src='group_vla.jpg'>
 

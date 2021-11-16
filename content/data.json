@@ -23,13 +23,12 @@
 			"link": "http://realfast.io/data/realfast_R67_mjd59311.html",
 			"image": "realfast_R67_mjd59311.png",
 		        "optional_text": "View page"
-		}
+		},
 		{
 		    "name": "VLA Large program for CHIME/FRB follow-up",
 		    "link": "http://www.tifr.res.in/~shriharsh.tendulkar/chime_realfast/repeaters.html",
-			"image": "tifr.jpg",
+			"image": "tifr.png",
 		        "optional_text": "Go to project"
 		}
-	    
 	]
 }

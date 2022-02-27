@@ -3,9 +3,8 @@ import json
 import shutil
 import os
 
-template = open("template.html", "r").read()
-
 # build about page
+template = open("template.html", "r").read()
 raw_text = open("about.md", "r").read()
 html = template.replace("<!-- Fill in template here -->", markdown.markdown(raw_text))
 file = open("about.html", "w")
@@ -15,6 +14,15 @@ shutil.copyfile("about.html", "../about/index.html")
 images = os.listdir("about_images")
 for image in images:
 	shutil.copyfile("about_images/" + image, "../about/" + image)
+
+# build publications page
+template = open("template.html", "r").read()
+raw_text = open("publications.md", "r").read()
+html = template.replace("<!-- Fill in template here -->", markdown.markdown(raw_text))
+file = open("publications.html", "w")
+file.write(html)
+file.close()
+shutil.copyfile("publications.html", "../publications/index.html")
 
 #build services page
 services = json.loads(open("services.json", "r").read())["services"]

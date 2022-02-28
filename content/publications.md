@@ -1,13 +1,13 @@
 Publications
 ----
 
-*realfast* has been supported via NSF awards NSF awards 2022546 (ATI, PI: Law) and 1714897 (AAG, PI: Burke-Spolaor). Early development supported by the [University of California Lab Fees Research Program](https://www.ucop.edu/research-initiatives/programs/lab-fees/index.html).
+*realfast* has been supported by NSF awards 2022546 (ATI, PI: Law) and 1714897 (AAG, PI: Burke-Spolaor). Early development was supported by the [University of California Lab Fees Research Program](https://www.ucop.edu/research-initiatives/programs/lab-fees/index.html).
 
 Technical development:
 
-1. [Law et al. (2015)](https://ui.adsabs.harvard.edu/#abs/2015ApJ...807...16L) describes a prototype *realfast* system that searched 200 hours and 200 TB of data for FRBs.
-2. [Law et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236....8L/abstract) is the realfast project paper.
-3. [Pokorny et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018JAI.....750005P/abstract) describes the high-speed data distribution protocol.
+1. [Law et al. (2015)](https://ui.adsabs.harvard.edu/#abs/2015ApJ...807...16L) -- A Millisecond Interferometric Search for Fast Radio Bursts with the Very Large Array 
+2. [Law et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236....8L/abstract) -- realfast: Real-time, Commensal Fast Transient Surveys with the Very Large Array
+3. [Pokorny et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018JAI.....750005P/abstract) -- Vys: A Protocol for Commensal Fast Transient Searches and Data Processing at the Very Large Array
 5. [Tohuvavohu et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200604550T/abstract) -- A Demonstration of Extremely Low Latency gamma-ray, X-Ray & UV Follow-Up of a Millisecond Radio Transient
 4. [Aggarwal et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...53A/abstract) -- Robust Assessment of Clustering Methods for Fast Radio Transient Candidates
 
@@ -38,7 +38,8 @@ Publications acknowledging *realfast* awards:
 3. [Lacy et al (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c5001L/abstract) -- The Karl G. Jansky Very Large Array Sky Survey (VLASS). Science Case and Survey Design
 9. [Platts et al (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..49P/abstract) -- A Data-driven Technique Using Millisecond Transients to Measure the Milky Way Halo
 10. [Aggarwal et al (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...911...95A/abstract) -- Probabilistic Association of Transients to their Hosts (PATH)
-11. [Aggarwal et al (2021)[(https://ui.adsabs.harvard.edu/abs/2021ApJ...920L..18A/abstract) -- Observational Effects of Banded Repeating FRBs
-12. [Aggarwal et al (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..115A/abstract) -- Comprehensive Analysis of a Dense Sample of FRB 121102 Bursts7. [Ravi et al (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..220R/abstract) -- FIRST J153350.8+272729: The Radio Afterglow of a Decades-old Tidal Disruption Event
+11. [Aggarwal et al (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...920L..18A/abstract) -- Observational Effects of Banded Repeating FRBs
+12. [Aggarwal et al (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..115A/abstract) -- Comprehensive Analysis of a Dense Sample of FRB 121102 Bursts
+7. [Ravi et al (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..220R/abstract) -- FIRST J153350.8+272729: The Radio Afterglow of a Decades-old Tidal Disruption Event
 8. [Mooley et al (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...16M/abstract) -- Late-time Evolution and Modeling of the Off-axis Gamma-Ray Burst Candidate FIRST J141918.9+394036
 1. [Anna-Thomas et al (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220211112A/abstract) -- A Highly Variable Magnetized Environment in a Fast Radio Burst Source

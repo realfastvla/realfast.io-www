@@ -13,17 +13,17 @@ Technical development:
 
 Science using *realfast*:
 
-1. [Chatterjee et al. (2017)](http://dx.doi.org/10.1038/nature20797) -- A direct localization of a fast radio burst and its host *Localization of FRB 20121102A*
+1. [Chatterjee et al. (2017)](http://dx.doi.org/10.1038/nature20797) -- A direct localization of a fast radio burst and its host (*Localization of FRB 20121102A*)
 2. [Law et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...850...76L/abstract) -- A Multi-telescope Campaign on FRB 121102: Implications for the FRB Population
 3. [Law et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...886...24L/abstract) -- A Search for Late-time Radio Emission and Fast Radio Bursts from Superluminous Supernovae
-11. [Aggarwal et al (2020)](https://ui.adsabs.harvard.edu/abs/2020RNAAS...4...94A/abstract) -- VLA/Realfast Detection of a Burst from FRB 180916.J0158+65 and Tests for Periodic Activity *Localization of FRB 20180916D*
+11. [Aggarwal et al (2020)](https://ui.adsabs.harvard.edu/abs/2020RNAAS...4...94A/abstract) -- VLA/Realfast Detection of a Burst from FRB 180916.J0158+65 and Tests for Periodic Activity (*Localization of FRB 20180916D*)
 4. [Marcote et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020Natur.577..190M/abstract) -- A repeating fast radio burst source localized to a nearby spiral galaxy
-5. [Law et al (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..161L/abstract) -- A Distant Fast Radio Burst Associated with Its Host Galaxy by the Very Large Array *Discovery and Localization of FRB 20190614D*
+5. [Law et al (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..161L/abstract) -- A Distant Fast Radio Burst Associated with Its Host Galaxy by the Very Large Array (*Discovery and Localization of FRB 20190614D*)
 8. [Kirsten et al (2021)](https://ui.adsabs.harvard.edu/abs/2022Natur.602..585K/abstract) -- Characterizing the Fast Radio Burst Host Galaxy Population and its Connection to Transients in the Local and Extragalactic Universe
-6. [Ravi et al (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210609710R/abstract) -- The host galaxy and persistent radio counterpart of FRB 20201124A *Localiztaion of FRB 20121102A*
-7. [Bhandari et al (2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....163...69B/abstract) -- Characterizing the Fast Radio Burst Host Galaxy Population and its Connection to Transients in the Local and Extragalactic Universe *Localization of FRB 20180301A*
+6. [Ravi et al (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210609710R/abstract) -- The host galaxy and persistent radio counterpart of FRB 20201124A (*Localiztaion of FRB 20121102A*)
+7. [Bhandari et al (2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....163...69B/abstract) -- Characterizing the Fast Radio Burst Host Galaxy Population and its Connection to Transients in the Local and Extragalactic Universe (*Localization of FRB 20180301A*)
 9. [Law et al (2022)](https://ui.adsabs.harvard.edu/abs/2021arXiv211015323L/abstract) -- On the Fast Radio Burst and Persistent Radio Source Populations
-10. [Niu et al (2022)](https://ui.adsabs.harvard.edu/abs/2021arXiv211007418N/abstract) -- A repeating fast radio burst in a dense environment with a compact persistent radio source *Localization of FRB 20190520B*
+10. [Niu et al (2022)](https://ui.adsabs.harvard.edu/abs/2021arXiv211007418N/abstract) -- A repeating fast radio burst in a dense environment with a compact persistent radio source (*Localization of FRB 20190520B*)
 
 Publications acknowledging *realfast* awards:
 
